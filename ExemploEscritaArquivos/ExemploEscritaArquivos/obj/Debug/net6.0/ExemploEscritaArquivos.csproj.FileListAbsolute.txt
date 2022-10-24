@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\bin\Debug\net6.0\ExemploEscritaArquivos.exe
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\bin\Debug\net6.0\ExemploEscritaArquivos.deps.json
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\bin\Debug\net6.0\ExemploEscritaArquivos.runtimeconfig.json
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\bin\Debug\net6.0\ExemploEscritaArquivos.dll
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\bin\Debug\net6.0\ExemploEscritaArquivos.pdb
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.AssemblyInfo.cs
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.dll
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\refint\ExemploEscritaArquivos.dll
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.pdb
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ExemploEscritaArquivos.genruntimeconfig.cache
+C:\Users\diesa\source\repos\ExemploEscritaArquivos\ExemploEscritaArquivos\obj\Debug\net6.0\ref\ExemploEscritaArquivos.dll

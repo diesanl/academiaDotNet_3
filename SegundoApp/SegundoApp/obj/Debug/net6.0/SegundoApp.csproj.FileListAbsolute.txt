@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\bin\Debug\net6.0\SegundoApp.exe
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\bin\Debug\net6.0\SegundoApp.deps.json
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\bin\Debug\net6.0\SegundoApp.runtimeconfig.json
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\bin\Debug\net6.0\SegundoApp.dll
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\bin\Debug\net6.0\SegundoApp.pdb
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.AssemblyInfo.cs
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.dll
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\refint\SegundoApp.dll
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.pdb
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\SegundoApp.genruntimeconfig.cache
+C:\Users\diesa\source\repos\SegundoApp\SegundoApp\obj\Debug\net6.0\ref\SegundoApp.dll

@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\bin\Debug\net6.0\ExemploTryCatch.exe
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\bin\Debug\net6.0\ExemploTryCatch.deps.json
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\bin\Debug\net6.0\ExemploTryCatch.runtimeconfig.json
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\bin\Debug\net6.0\ExemploTryCatch.dll
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\bin\Debug\net6.0\ExemploTryCatch.pdb
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.AssemblyInfo.cs
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.dll
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\refint\ExemploTryCatch.dll
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.pdb
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ExemploTryCatch.genruntimeconfig.cache
+C:\Users\diesa\source\repos\ExemploTryCatch\ExemploTryCatch\obj\Debug\net6.0\ref\ExemploTryCatch.dll

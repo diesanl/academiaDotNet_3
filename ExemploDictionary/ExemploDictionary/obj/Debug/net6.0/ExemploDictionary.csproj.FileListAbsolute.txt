@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\bin\Debug\net6.0\ExemploDictionary.exe
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\bin\Debug\net6.0\ExemploDictionary.deps.json
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\bin\Debug\net6.0\ExemploDictionary.runtimeconfig.json
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\bin\Debug\net6.0\ExemploDictionary.dll
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\bin\Debug\net6.0\ExemploDictionary.pdb
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.AssemblyInfo.cs
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.dll
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\refint\ExemploDictionary.dll
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.pdb
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ExemploDictionary.genruntimeconfig.cache
+C:\Users\diesa\source\repos\ExemploDictionary\ExemploDictionary\obj\Debug\net6.0\ref\ExemploDictionary.dll

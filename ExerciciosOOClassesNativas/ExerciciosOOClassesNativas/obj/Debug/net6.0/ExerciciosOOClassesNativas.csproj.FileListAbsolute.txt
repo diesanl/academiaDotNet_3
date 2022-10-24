@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\bin\Debug\net6.0\ExerciciosOOClassesNativas.exe
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\bin\Debug\net6.0\ExerciciosOOClassesNativas.deps.json
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\bin\Debug\net6.0\ExerciciosOOClassesNativas.runtimeconfig.json
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\bin\Debug\net6.0\ExerciciosOOClassesNativas.dll
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\bin\Debug\net6.0\ExerciciosOOClassesNativas.pdb
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.AssemblyInfo.cs
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.dll
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\refint\ExerciciosOOClassesNativas.dll
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.pdb
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ExerciciosOOClassesNativas.genruntimeconfig.cache
+C:\Users\diesa\source\repos\ExerciciosOOClassesNativas\ExerciciosOOClassesNativas\obj\Debug\net6.0\ref\ExerciciosOOClassesNativas.dll

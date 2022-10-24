@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\bin\Debug\net6.0\Lista7Exercicios.exe
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\bin\Debug\net6.0\Lista7Exercicios.deps.json
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\bin\Debug\net6.0\Lista7Exercicios.runtimeconfig.json
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\bin\Debug\net6.0\Lista7Exercicios.dll
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\bin\Debug\net6.0\Lista7Exercicios.pdb
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.AssemblyInfo.cs
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.dll
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\refint\Lista7Exercicios.dll
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.pdb
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\Lista7Exercicios.genruntimeconfig.cache
+C:\Users\diesa\source\repos\Lista7Exercicios\Lista7Exercicios\obj\Debug\net6.0\ref\Lista7Exercicios.dll

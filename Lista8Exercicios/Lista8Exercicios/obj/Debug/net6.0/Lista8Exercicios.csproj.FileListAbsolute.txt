@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.AssemblyInfo.cs
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\bin\Debug\net6.0\Lista8Exercicios.exe
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\bin\Debug\net6.0\Lista8Exercicios.deps.json
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\bin\Debug\net6.0\Lista8Exercicios.runtimeconfig.json
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\bin\Debug\net6.0\Lista8Exercicios.dll
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\bin\Debug\net6.0\Lista8Exercicios.pdb
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.dll
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\refint\Lista8Exercicios.dll
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.pdb
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\Lista8Exercicios.genruntimeconfig.cache
+C:\Users\diesa\source\repos\Lista8Exercicios\Lista8Exercicios\obj\Debug\net6.0\ref\Lista8Exercicios.dll

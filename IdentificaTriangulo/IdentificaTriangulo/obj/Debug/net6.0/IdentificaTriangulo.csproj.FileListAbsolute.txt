@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\bin\Debug\net6.0\IdentificaTriangulo.exe
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\bin\Debug\net6.0\IdentificaTriangulo.deps.json
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\bin\Debug\net6.0\IdentificaTriangulo.runtimeconfig.json
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\bin\Debug\net6.0\IdentificaTriangulo.dll
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\bin\Debug\net6.0\IdentificaTriangulo.pdb
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.AssemblyInfo.cs
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.dll
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\refint\IdentificaTriangulo.dll
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.pdb
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\IdentificaTriangulo.genruntimeconfig.cache
+C:\Users\diesa\source\repos\IdentificaTriangulo\IdentificaTriangulo\obj\Debug\net6.0\ref\IdentificaTriangulo.dll

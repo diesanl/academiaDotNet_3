@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\bin\Debug\net6.0\PrimeiraAppTest.exe
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\bin\Debug\net6.0\PrimeiraAppTest.deps.json
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\bin\Debug\net6.0\PrimeiraAppTest.runtimeconfig.json
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\bin\Debug\net6.0\PrimeiraAppTest.dll
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\bin\Debug\net6.0\PrimeiraAppTest.pdb
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.AssemblyInfo.cs
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.dll
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\refint\PrimeiraAppTest.dll
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.pdb
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\PrimeiraAppTest.genruntimeconfig.cache
+C:\Users\diesa\source\repos\PrimeiraAppTest\PrimeiraAppTest\obj\Debug\net6.0\ref\PrimeiraAppTest.dll

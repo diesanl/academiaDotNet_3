@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\AppOO\AppOO\bin\Debug\net6.0\AppOO.exe
+C:\Users\diesa\source\repos\AppOO\AppOO\bin\Debug\net6.0\AppOO.deps.json
+C:\Users\diesa\source\repos\AppOO\AppOO\bin\Debug\net6.0\AppOO.runtimeconfig.json
+C:\Users\diesa\source\repos\AppOO\AppOO\bin\Debug\net6.0\AppOO.dll
+C:\Users\diesa\source\repos\AppOO\AppOO\bin\Debug\net6.0\AppOO.pdb
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.AssemblyInfo.cs
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.dll
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\refint\AppOO.dll
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.pdb
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\AppOO.genruntimeconfig.cache
+C:\Users\diesa\source\repos\AppOO\AppOO\obj\Debug\net6.0\ref\AppOO.dll

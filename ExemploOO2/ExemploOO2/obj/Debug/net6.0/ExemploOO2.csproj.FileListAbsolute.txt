@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\bin\Debug\net6.0\ExemploOO2.exe
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\bin\Debug\net6.0\ExemploOO2.deps.json
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\bin\Debug\net6.0\ExemploOO2.runtimeconfig.json
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\bin\Debug\net6.0\ExemploOO2.dll
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\bin\Debug\net6.0\ExemploOO2.pdb
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.AssemblyInfo.cs
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.dll
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\refint\ExemploOO2.dll
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.pdb
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ExemploOO2.genruntimeconfig.cache
+C:\Users\diesa\source\repos\ExemploOO2\ExemploOO2\obj\Debug\net6.0\ref\ExemploOO2.dll

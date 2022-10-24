@@ -1,0 +1,15 @@
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\bin\Debug\net6.0\Lista5Exercicios.exe
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\bin\Debug\net6.0\Lista5Exercicios.deps.json
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\bin\Debug\net6.0\Lista5Exercicios.runtimeconfig.json
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\bin\Debug\net6.0\Lista5Exercicios.dll
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\bin\Debug\net6.0\Lista5Exercicios.pdb
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.csproj.AssemblyReference.cache
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.AssemblyInfoInputs.cache
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.AssemblyInfo.cs
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.dll
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\refint\Lista5Exercicios.dll
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.pdb
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\Lista5Exercicios.genruntimeconfig.cache
+C:\Users\diesa\source\repos\Lista5Exercicios\Lista5Exercicios\obj\Debug\net6.0\ref\Lista5Exercicios.dll
