@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppXamarin1.ParOuImpar">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Par ou ímpar!!!!" TextColor="Blue" />
+            <Entry Keyboard="Numeric" Placeholder="Informe um número inteiro!!!"/>
+            <Button Text="Executar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
