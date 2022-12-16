@@ -32,7 +32,7 @@ namespace GerenciadorEventos.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Descricao = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Tipo = table.Column<int>(type: "int", nullable: false),
+                    Tipo = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Hora = table.Column<DateTime>(type: "datetime2", nullable: false),
                     PessoaId = table.Column<int>(type: "int", nullable: false)
                 },

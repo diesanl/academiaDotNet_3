@@ -55,12 +55,17 @@ namespace GerenciadorEventos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,HorarioInicio,HorarioFim")] SonoModel SonoModel)
+        public async Task<IActionResult> Create([Bind("Id,HorarioInicio,HorarioFim")] int id, SonoModel SonoModel, int pessoaId)
         {
 
             try
             {
-                _context.Sono.Add(SonoModel);
+                _context.Sono.Add(new SonoModel
+                {
+                    HorarioInicio = SonoModel.HorarioInicio,
+                    HorarioFim = SonoModel.HorarioFim,
+                    PessoaId = pessoaId
+                });
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
 
@@ -102,9 +107,13 @@ namespace GerenciadorEventos.Controllers
 
             try
             {
+                SonoModel? sModel = await _context.Sono.FirstOrDefaultAsync(m => m.Id == id);
                 try
                 {
-                    _context.Sono.Update(SonoModel);
+                    Console.WriteLine(sModel.Id);
+                    sModel.HorarioInicio = SonoModel.HorarioInicio;
+                    sModel.HorarioFim = SonoModel.HorarioFim;
+                    _context.Sono.Update(sModel);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)

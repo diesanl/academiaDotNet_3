@@ -15,13 +15,14 @@ namespace GerenciadorEventos.Models
         [Display(Name = "Descrição")]
         public string Descricao { get; set; }
 
-        
+
         [Display(Name = "Tipo")]
-        public TipoEnum Tipo { get; set; }
+        public string Tipo { get; set; }
 
         [Display(Name = "Data/Hora")]
         public DateTime Hora { get; set; }
 
+        public int PessoaId { get; set; }
         public virtual PessoaModel Pessoa { get; set; }
     }
 }

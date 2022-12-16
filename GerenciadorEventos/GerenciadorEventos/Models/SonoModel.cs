@@ -16,6 +16,7 @@ namespace GerenciadorEventos.Models
         [Display(Name = "Horário (Fim)")]
         public DateTime HorarioFim { get; set; }
 
+        public int PessoaId { get; set; }
         public virtual PessoaModel Pessoa { get; set; }
     }
 }

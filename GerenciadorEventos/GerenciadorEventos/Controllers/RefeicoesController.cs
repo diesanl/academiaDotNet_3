@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using GerenciadorEventos.Models;
 
@@ -50,22 +55,32 @@ namespace GerenciadorEventos.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Descricao,Tipo,Hora")] RefeicaoModel refeicaoModel)
+        public async Task<IActionResult> Create([Bind("Id,Descricao,Tipo,Hora, PessoaId")] int id, string descricao, string tipo, DateTime hora, int pessoaId)
         {
 
-
+            //Console.WriteLine(id.ToString());
+            //Console.WriteLine(descricao);
+            //Console.WriteLine(tipo);
+            //Console.WriteLine(hora);
+            //Console.WriteLine(pessoaId.ToString());
             try
             {
-                _context.Refeicao.Add(refeicaoModel);
+                _context.Refeicao.Add(new RefeicaoModel
+                {
+                    Descricao = descricao,
+                    Tipo = tipo,
+                    Hora = hora,
+                    PessoaId = pessoaId
+                });
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
-
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
-            return View(refeicaoModel);
+
+            return View();
         }
 
         // GET: Refeicoes/Edit/5
@@ -98,9 +113,17 @@ namespace GerenciadorEventos.Controllers
 
             try
             {
+                var rModel = await _context.Refeicao
+                .FirstOrDefaultAsync(m => m.Id == id);
                 try
                 {
-                    _context.Update(refeicaoModel);
+                    Console.WriteLine(rModel.Id);
+                    //rModel.Id = refeicaoModel.Id;
+                    rModel.Descricao = refeicaoModel.Descricao;
+                    rModel.Tipo = refeicaoModel.Tipo;
+                    rModel.Hora = refeicaoModel.Hora;
+
+                    _context.Refeicao.Update(rModel);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -121,7 +144,7 @@ namespace GerenciadorEventos.Controllers
                 Console.WriteLine(ex.Message);
             }
 
-            return View(refeicaoModel);
+            return View();
         }
 
         // GET: Refeicoes/Delete/5
